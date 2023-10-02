@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2cadbe43a3e774292369a2444967a8, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  question: "A\u015Fa\u011F\u0131da verilen ilk \xE7a\u011F uygarl\u0131klar\u0131ndan
+    hangisi yaz\u0131y\u0131 icat etmi\u015Ftir?"
+  answers:
+  - 'Hititler '
+  - 'Elamlar '
+  - "S\xFCmerler "
+  - Urartular
+  correctAnswerIndex: 2
